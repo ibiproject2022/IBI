@@ -1,7 +1,7 @@
 # IBA - From Community For Society
 
 # About
-IBA stands for Indonesia Blockchain Academy. IBA was inspired by https://kernel.community/en/ and driven by the phenomena that occurred in the blockchain and cryptocurrency space in Indonesia. IBA aims to create multi-national community focusing on learning solutions of Blockchain technology and cryptocurrency. IBI aims to create programs which fosters the fundamental understanding and practical application of Blockchain technology and cryptocurrency.
+IBA stands for Indonesia Blockchain Academy. IBA was inspired by https://kernel.community/en/ and driven by the phenomena that occurred in the blockchain and cryptocurrency space in Indonesia. IBA aims to create multi-national community focusing on learning solutions of Blockchain technology and cryptocurrency. IBA aims to create programs which fosters the fundamental understanding and practical application of Blockchain technology and cryptocurrency.
 
 # Root Cause
 #### 1. Interest in cryptocurrency investment is increasing but not accompanied by knowledge, which resulted in falling into: Fraud, fake investments, even suicide
